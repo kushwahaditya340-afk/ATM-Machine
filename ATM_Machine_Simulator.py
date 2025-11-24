@@ -1,5 +1,4 @@
 # PyBank ATM
-# By Bhavya Chourey
 
 import tkinter as tk
 from tkinter import messagebox
@@ -472,3 +471,4 @@ btn_exit = tk.Button(
 btn_exit.grid(row=0, column=1, padx=5, pady=5)
 
 root.mainloop()
+
